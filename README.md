@@ -26,7 +26,7 @@ On the product page, users can view details and information about a particular i
 
 ### Payment Page
 
-![Payment Page](Portfolio_Photo /Pay_Screen.png)
+![Payment Page](https://github.com/stilist1/Style_Shop_React/blob/master/%20Portfolio_Photo/Pay_Screen.png)
 
 The payment page provides a convenient way to complete a purchase.
 
