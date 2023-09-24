@@ -14,19 +14,19 @@ On the home page, users can browse various products and navigate to different ca
 
 ### Cart Page
 
-![Cart Page](Cart_Screen.png)
+![Cart Page](Portfolio_Photo/Cart_Screen.png)
 
 The cart page displays the selected items, and users can proceed to make a payment.
 
 ### Product Page
 
-![Product Page](Ithem_Screen.png)
+![Product Page](Portfolio_Photo/Ithem_Screen.png)
 
 On the product page, users can view details and information about a particular item.
 
 ### Payment Page
 
-![Payment Page](Pay_Screen.png)
+![Payment Page](Portfolio_Photo/Pay_Screen.png)
 
 The payment page provides a convenient way to complete a purchase.
 
