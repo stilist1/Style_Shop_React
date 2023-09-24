@@ -1,0 +1,72 @@
+/* Cart.module.css */
+.cart {
+  max-width: 800px;
+  margin: 60px auto 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.cart-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+}
+
+.item-image {
+  max-width: 80px;
+  margin-right: 10px;
+  
+}
+
+.item-info {
+  flex-grow: 1;
+}
+
+.remove-button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.remove-button:hover {
+  background-color: #cc0000;
+}
+
+/* Стили для надписи с общей ценой */
+.total-price {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  text-align: right;
+  color: #333;
+}
+
+.payment-button {
+  background-color: #008000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.payment-button:hover {
+  background-color: #006600;
+}

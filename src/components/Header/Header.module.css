@@ -1,0 +1,55 @@
+.header{
+  border-bottom: 0.5px solid black;
+}
+
+.Logo_Btn {
+    font-family: 'Teko', sans-serif;
+    color: #1c1b22;
+    font-size: 45px;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  .navList li a {
+    text-decoration: none; /* Убирает подчеркивание */
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+  }
+  .navList li {
+    list-style-type: none; /* Убирает маркер (точку) перед элементом списка */
+  }
+.logo {
+    margin-right: 30px; /* Добавьте желаемый отступ между логотипом и вкладкой "Main" */
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+  }
+  
+  .leftSection {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+  }
+  
+  .rightSection {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin-right: 20px;
+  }
+  
+  /* Изменим цвет иконок корзины и профиля */
+  .icon {
+    color: #000000; /* Новый цвет для иконок (корзины и профиля) */
+  }
+  
+  /* Добавим отступы */
+  .rightSection a:not(:last-child) {
+    margin-right: 20px;
+  }
+  

@@ -1,0 +1,78 @@
+/* Ваш стиль для контейнера страницы */
+.container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Стиль для заголовка страницы */
+  .title {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Стиль для общей суммы */
+  .amount {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  /* Стиль для формы */
+  .form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Стиль для группы элементов формы */
+  .formGroup {
+    margin-bottom: 20px;
+  }
+  
+  /* Стиль для метки формы */
+  .label {
+    font-size: 16px;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Стиль для ввода текста */
+  .input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  /* Стиль для текстовой области */
+  .textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  /* Стиль для кнопки оплаты */
+  .button {
+    background-color: #f00; /* Цвет кнопки можно заменить на нужный */
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Стиль для кнопки при наведении */
+  .button:hover {
+    background-color: #c00; /* Цвет при наведении можно изменить */
+  }
+  
