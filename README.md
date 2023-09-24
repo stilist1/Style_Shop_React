@@ -1,8 +1,43 @@
-# React + Vite
+# Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an e-commerce website built using React. It serves as an online store for branded clothing and offers a convenient way to browse and purchase branded items online.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here are several screenshots from your project:
+
+### Home Page
+
+![Home Page](Portfolio_Photo/Shop_Screen.png)
+
+On the home page, users can browse various products and navigate to different categories.
+
+### Cart Page
+
+![Cart Page](Cart_Screen.png)
+
+The cart page displays the selected items, and users can proceed to make a payment.
+
+### Product Page
+
+![Product Page](Ithem_Screen.png)
+
+On the product page, users can view details and information about a particular item.
+
+### Payment Page
+
+![Payment Page](Pay_Screen.png)
+
+The payment page provides a convenient way to complete a purchase.
+
+## Installation and Running
+
+To install and run the project locally, follow these steps:
+
+1. Clone the repository to your computer.
+2. Install the necessary dependencies using `yarn install`.
+3. Start the project with `yarn dev`.
+
+## License
+
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
