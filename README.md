@@ -8,19 +8,19 @@ Here are several screenshots from your project:
 
 ### Home Page
 
-![Home Page](Portfolio_Photo /Shop_Screen.png)
+![Home Page](https://github.com/stilist1/Style_Shop_React/blob/master/%20Portfolio_Photo/Shop_Screen.png)
 
 On the home page, users can browse various products and navigate to different categories.
 
 ### Cart Page
 
-![Cart Page](Portfolio_Photo /Cart_Screen.png)
+![Cart Page](https://github.com/stilist1/Style_Shop_React/blob/master/%20Portfolio_Photo/Cart_Screen.png)
 
 The cart page displays the selected items, and users can proceed to make a payment.
 
 ### Product Page
 
-![Product Page](Portfolio_Photo /Ithem_Screen.png)
+![Product Page](https://github.com/stilist1/Style_Shop_React/blob/master/%20Portfolio_Photo/Ithem_Screen.png)
 
 On the product page, users can view details and information about a particular item.
 
