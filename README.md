@@ -8,25 +8,25 @@ Here are several screenshots from your project:
 
 ### Home Page
 
-![Home Page](Portfolio_Photo/Shop_Screen.png)
+![Home Page](Portfolio_Photo /Shop_Screen.png)
 
 On the home page, users can browse various products and navigate to different categories.
 
 ### Cart Page
 
-![Cart Page](Portfolio_Photo/Cart_Screen.png)
+![Cart Page](Portfolio_Photo /Cart_Screen.png)
 
 The cart page displays the selected items, and users can proceed to make a payment.
 
 ### Product Page
 
-![Product Page](Portfolio_Photo/Ithem_Screen.png)
+![Product Page](Portfolio_Photo /Ithem_Screen.png)
 
 On the product page, users can view details and information about a particular item.
 
 ### Payment Page
 
-![Payment Page](Portfolio_Photo/Pay_Screen.png)
+![Payment Page](Portfolio_Photo /Pay_Screen.png)
 
 The payment page provides a convenient way to complete a purchase.
 
